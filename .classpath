@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-7-oracle">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/lucene_5_5_3/lucene-5.5.3/queryparser/lucene-queryparser-5.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/lucene_5_5_3/lucene-5.5.3/demo/lucene-demo-5.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/lucene_5_5_3/lucene-5.5.3/analysis/common/lucene-analyzers-common-5.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/lucene_5_5_3/lucene-5.5.3/core/lucene-core-5.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/apacheUtils/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/OvGU/Sem1/Subjects/IR/MasterAssignment/jsoup/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="/home/sayantan/Downloads/weka.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
